@@ -6,8 +6,8 @@ Important Commands
 #Enable rabbitmq dashboard
 rabbitmq-plugins enable rabbitmq_management
 
-#Stop rabbitmq server
-net stop RabbitMQ
+#Stop rabbitmq service
+#net stop RabbitMQ
 
-#Start rabbitmq server
-net start RabbitMQ
+#Start rabbitmq service
+#net start RabbitMQ
