@@ -3,11 +3,14 @@ This is a RabbitMQ Demo Application which models the email client and email hand
 
 Important Commands
 
-#Enable rabbitmq dashboard
+Enable rabbitmq dashboard
+
 rabbitmq-plugins enable rabbitmq_management
 
-#Stop rabbitmq service
-#net stop RabbitMQ
+Stop rabbitmq service
 
-#Start rabbitmq service
-#net start RabbitMQ
+net stop RabbitMQ
+
+Start rabbitmq service
+
+net start RabbitMQ
